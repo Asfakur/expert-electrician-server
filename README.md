@@ -1,4 +1,4 @@
-# Introduction to "Expert-Electrician" App Client side repository
+# Introduction to "Expert-Electrician" App Server side repository
 
 ### Description:
 This app is build with react js and node js
